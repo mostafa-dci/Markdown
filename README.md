@@ -50,4 +50,17 @@ For more info, visit [Github Docs](https://docs.github.com/en/get-started/writin
 
 When you use two or more headings, GitHub automatically generates a table[^1] of contents which you can access by clicking  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
+
+|  First Column | Second Column  | Third Column  |
+| :---          |   :---:        |  ---:         |
+|Sudo           | Linux          | Windows       |
+|NPM            |Nodejs          | Code          |
+
+
+This Project Support :
+- [x] Windows
+- [x] Linux.
+- [ ] IOS 
+
+
 [^1]: (That is to refare stable)
