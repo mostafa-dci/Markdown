@@ -9,7 +9,7 @@
 This is just normal **Bold Text**.
 
 
-This is normal _Italic Text_. 
+This is normal _Italic Text_.
 
 This is normal ~~Strike Text~~.
 
@@ -40,3 +40,10 @@ For python
 ```python
 print("Hello")
 ```
+
+![online image](https://docs.github.com/assets/cb-8119/images/help/writing/headings-rendered.png)
+
+![my capture](./images/1.png)
+
+For more info, visit [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) website.
+
